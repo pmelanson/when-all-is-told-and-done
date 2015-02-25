@@ -4,4 +4,4 @@
 
 `git clone https://github.com/pmelanson/when-all-is-told-and-done/`
 
-`racket run-this-in-emergencies.rkt`
+`racket when-all-is-told-and-done/run-this-in-emergencies.rkt`
